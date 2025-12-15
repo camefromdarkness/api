@@ -1,0 +1,14 @@
+.user-details-page {
+    padding: 20px;
+}
+
+.user-info {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.post-card {
+    border: 1px solid #ddd;
+    padding: 8px;
+    margin-bottom: 8px;
+}

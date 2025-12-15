@@ -1,0 +1,38 @@
+.users-page {
+    padding: 20px;
+}
+
+.view-buttons {
+    margin-bottom: 10px;
+}
+
+.users-list .user-card {
+    display: block;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+    text-decoration: none;
+    color: black;
+}
+
+.users-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+}
+
+.users-grid .user-card {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-decoration: none;
+    color: black;
+}
+
+.user-name {
+    font-weight: bold;
+}
+
+.user-email {
+    font-size: 12px;
+    color: #555;
+}
